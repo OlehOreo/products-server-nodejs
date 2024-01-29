@@ -1,9 +1,16 @@
 [
-	{
-		"name": "phone",
-		"price": 100,
-		"id": "657ca6b768c39b01a9f716c4",
-		"sale": 0,
-		"imgURL": "https://static.vecteezy.com/system/resources/previews/005/337/799/original/icon-image-not-found-free-vector.jpg"
-	}
+  {
+    "name": "iphone",
+    "price": 45,
+    "id": "65b6330b436fb9b185e714aa",
+    "imgUrl": "https://static.vecteezy.com/system/resources/previews/005/337/799/original/icon-image-not-found-free-vector.jpg",
+    "sale": 0
+  },
+  {
+    "name": "iphone",
+    "price": 150,
+    "id": "65b63511911fbf0222f2e6d5",
+    "imgUrl": "https://static.vecteezy.com/system/resources/previews/005/337/799/original/icon-image-not-found-free-vector.jpg",
+    "sale": 0
+  }
 ]
